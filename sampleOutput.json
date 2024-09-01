@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "le-monde",
+                "name": "Le Monde"
+            },
+            "author": "Anthony Hernandez",
+            "title": "Football aux JO 2024 : les Américaines favorites de la finale face à des Brésiliennes, surprises du tournoi olympique",
+            "description": "Absentes des deux dernières finales, les footballeuses des Etats-Unis visent, samedi 10 août, une cinquième médaille d’or face aux Brésiliennes, déjà finalistes en 2004 et 2008.",
+            "url": "https://www.lemonde.fr/sport/article/2024/08/10/football-aux-jo-2024-les-americaines-favorites-de-la-finale-face-a-des-bresiliennes-surprises-du-tournoi-olympique_6275033_3242.html",
+            "urlToImage": "https://img.lemde.fr/2024/08/06/0/0/2601/1734/1440/960/60/0/0b84a06_5335418-01-06.jpg",
+            "publishedAt": "2024-08-10T05:00:09Z",
+            "content": "Mallory Swanson célèbre le but victorieux contre lAllemagne en demi-finale des JO. OLIVIER CHASSIGNOLE / AFP\r\nLa finale attendue entre de revanchardes Américaines, reines déchues du football depuis l… [+3816 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Chantz Martin",
+            "title": "Deion Sanders refuses to take question from reporter during press conference: 'They know what they did'",
+            "description": "Colorado football coach Deion Sanders fielded questions from reporters Friday as the start of college football draws near. But he seemed to take issue with a couple of outlets.",
+            "url": "https://www.foxnews.com/sports/deion-sanders-refuses-take-question-from-reporter-during-press-conference-they-know-what-did",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/08/Deion-Sanders-press-conference.jpg",
+            "publishedAt": "2024-08-09T22:02:58Z",
+            "content": "Join Fox News for access to this content\r\nYou have reached your maximum number of articles. Log in or create an account FREE of charge to continue reading.\r\nBy entering your email and pushing continu… [+4427 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Olympics football: Spain beat France 5-3 in extra time to win gold",
+            "description": "Spain win first gold medal in men's football since 1992 by beating hosts France 5-3 after extra time in thrilling final at Parc des Princes.",
+            "url": "http://www.bbc.co.uk/sport/olympics/live/ce800785073t",
+            "urlToImage": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/sport/images/metadata/poster-1024x576.png",
+            "publishedAt": "2024-08-09T19:37:20.1594069Z",
+            "content": "Spain continued their recent dominance of international football by edging past France - who fought back from 3-1 down to force extra time - to win Olympic men's gold at Paris 2024.\r\nA pulsating matc… [+808 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Dan Graziano, Jeremy Fowler",
+            "title": "2024 NFL training camp news, buzz, fantasy football updates - ESPN",
+            "description": "Dan Graziano and Jeremy Fowler have everything you need to know from the 18 different stops of their annual training camp trips.",
+            "url": "https://www.espn.com/nfl/insider/story/_/id/40638514/2024-nfl-training-camp-latest-updates-buzz-notes-news-fantasy-football",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0808%2Fr1370762_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-08-09T10:00:00Z",
+            "content": "NFL training camps are in full swing, as teams and players gear up for the 2024 season. That means national reporters Dan Graziano and Jeremy Fowler have been on the road for their annual camp tour, … [+119771 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "David Kenyon",
+            "title": "Unique Stats from the 2023 College Football Regular Season",
+            "description": "Numbers are an integral part of college football. Whether you're previewing games, ranking teams or picking an award winner, statistics help shape the story.…",
+            "url": "https://bleacherreport.com/articles/10100739-unique-stats-from-the-2023-college-football-regular-season",
+            "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1702319871/sdx1wjlqkcqz3anqfabp.jpg",
+            "publishedAt": "2023-12-12T12:00:00Z",
+            "content": "Zach Bolinger/Icon Sportswire via Getty Images\r\nSpeaking of Iowa...\r\nWhat makes the Hawkeyes' stellar defensive season even more impressive is how much the team desperately needed it.\r\nAmong the many… [+711 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+            "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+            "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+            "publishedAt": "2020-04-27T07:20:43Z",
+            "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+        }
+    ]
+}
