@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Shazam_News/static/css/main.dc4d6ff2.css",
+    "main.js": "/Shazam_News/static/js/main.97214be3.js",
+    "static/js/453.b2157c12.chunk.js": "/Shazam_News/static/js/453.b2157c12.chunk.js",
+    "static/media/spinner.gif": "/Shazam_News/static/media/spinner.bb71e136982290769ef7.gif",
+    "index.html": "/Shazam_News/index.html",
+    "main.dc4d6ff2.css.map": "/Shazam_News/static/css/main.dc4d6ff2.css.map",
+    "main.97214be3.js.map": "/Shazam_News/static/js/main.97214be3.js.map",
+    "453.b2157c12.chunk.js.map": "/Shazam_News/static/js/453.b2157c12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.97214be3.js"
+  ]
+}
